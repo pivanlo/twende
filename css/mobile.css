@@ -1,0 +1,269 @@
+body {
+	padding-top: 0;
+}
+
+#estado-optimo {
+  font-size: 22px;
+  padding: 0 20px;
+}
+
+.navbar .container {
+  padding: 25px;
+  line-height: 20px;
+}
+
+.footer {
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.hero {
+  padding: 60px 0;
+}
+
+.navbar-brand {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h2.contact-title {
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+.footer-links-container {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.header {
+  padding: 50px 25px;
+}
+
+.team-member-title {
+  font-size: 14px;
+}
+
+.col-mobile-12 {
+  grid-column: 1 / 13;
+}
+
+#footer-logo>img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#social-icons {
+  grid-column: 1 / 13;
+}
+
+#social-icons a {
+  margin: 0 20px;
+}
+
+.hero>.container>div {
+  grid-column: 2 / 12;
+}
+
+.navbar-brand {
+  grid-column: 1 / 13;
+  margin: 0 auto;
+}
+
+.nav-mobile {
+  grid-column: 1 / 13;
+}
+
+.contact {
+  grid-column: 2 / 12;
+}
+
+.map {
+  grid-column: 2 / 12;
+}
+
+.projects-sidebar {
+  grid-column: 2 / 12;
+}
+
+.project {
+  grid-column: 2 / 12;
+}
+
+.team-container {
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 30px;
+  padding: 0 20px;
+}
+
+#logo img {
+  margin: 25px auto;
+}
+
+.nav-desktop {
+  display: none;
+}
+
+.hero {
+  position: static;
+  height: 400px;
+  background-image: url("../images/mom-and-child-crop-mobile.jpg");
+  background-position: 50% 10%;
+}
+
+.navbar {
+  position: relative;
+  top: 0px;
+}
+
+.navbar-top {
+  position: static;
+  padding: 0 25px;
+}
+
+.hero-heading {
+  display: none;
+}
+
+.navbar-nav a {
+  padding: 10px 0;
+}
+
+#hero-mobile {
+  padding: 25px;
+  background-color: #df678c;
+  font-size: 26px;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+}
+
+#vision, #mission {
+  padding: 50px;
+}
+
+
+.partners {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.footer-container img {
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 50px;
+  max-width: 300px;
+}
+
+#copyright {
+  margin-bottom: 20px;
+} 
+
+.footer {
+  padding: 50px;
+}
+
+#about {
+  padding: 50px 25px;
+}
+
+#founders-preview {
+  padding: 50px 25px;
+}
+
+#vision {
+  padding: 50px 25px;
+}
+
+#mission {
+  padding: 50px 25px;
+}
+
+#message img {
+  display: block;
+  width: 50%;
+  max-width: 200px;
+  margin: 0 auto 50px;
+  border-radius: 99px;
+}
+
+#message .message-arrow {
+  display: none;
+}
+
+#message>div {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.footer-heading {
+  margin-top: 25px;
+}
+
+.footer-container {
+  margin-top: -25px;
+}
+
+.footer-bottom .footer-container {
+  margin-top: 0px;
+}
+
+#navbar-top-email {
+  display: none;
+}
+
+#contact {
+  padding: 50px 25px;
+}
+
+.contact-form {
+  padding: 25px;
+}
+
+#desktop-partners-table {
+  display: none;
+}
+
+#partners-container {
+  padding: 50px 25px;
+}
+
+#mobile-partners-table th, #mobile-partners-table td {
+  text-align: center; 
+}
+
+.subnav {
+  padding: 15px 0;
+  background: #4a1467;
+  display: none;
+}
+
+.subnav a {
+  display: block;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 25px;
+  color: #fff;
+  font-size: 14px;
+}
+
+.section {
+  padding: 50px 25px;
+}
+
+.nav-item {
+  cursor: pointer;
+}
+
+.founders-message-container {
+  padding:50px 25px;
+}
+
+.founders-message-image {
+  margin: 0 auto 25px;
+  max-width: 300px;
+}
